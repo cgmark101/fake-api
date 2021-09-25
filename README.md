@@ -4,6 +4,20 @@
 
 Modificar o agregar nuevas rutas en el archivo `config.py` siguiendo la misma estructura
 
+```py
+routes= {
+    'userdata':{
+        'path':'/user',
+        'tag': ['userdata','user'],
+        'payload':{
+            'id':1,
+            'username':'jhondoe',
+            'email':'jhondoe@gmail.com'
+            }
+        }
+       ,
+ ```
+
 `Nota:` No repetir el path ya q solo se veria el ultimo del mismo nombre
 
 # Instalar
