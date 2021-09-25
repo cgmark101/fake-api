@@ -1,4 +1,5 @@
 # fake-api
+Este es un generador de puntos de acceso para simular apis
 
 # Instrucciones
 
@@ -32,3 +33,6 @@ $ uvicorn main:app --reload --port 8001
 ```
 
 [Documantacion interativa](http://localhost:8001/docs)
+
+# To-Do
+Implementar mas metodos http
