@@ -4,7 +4,7 @@
 
 Modificar el archivo config.py siguiendo la misma estructura
 
-#instalar
+# Instalar
 
 ```bash
 $ virtualenv .venv
