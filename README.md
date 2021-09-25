@@ -2,7 +2,7 @@
 
 # Instrucciones
 
-Modificar el archivo config.py siguiendo la misma estructura
+Modificar o agregar nuevas rutas en el archivo `config.py` siguiendo la misma estructura
 
 # Instalar
 
