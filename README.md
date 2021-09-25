@@ -3,6 +3,7 @@
 # Instrucciones
 
 Modificar o agregar nuevas rutas en el archivo `config.py` siguiendo la misma estructura
+
 `Nota:` No repetir el path ya q solo se veria el ultimo del mismo nombre
 
 # Instalar
